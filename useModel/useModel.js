@@ -70,5 +70,5 @@ export const useModel = async (scene, radius, pts) => {
   };
 
   // 模型加载
-  loadModel("fighter-plane.glb", loaded);
+  loadModel("ice_sword.glb", loaded);
 };
